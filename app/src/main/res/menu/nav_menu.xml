@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        >
+    <item
+        android:id="@+id/caidan1"
+        android:icon="@drawable/aixin"
+        android:title="菜单1"
+        >
+    </item>
+    <item
+        android:id="@+id/caidan2"
+        android:icon="@drawable/anquan"
+        android:title="菜单2"
+        >
+    </item>
+    <item
+        android:id="@+id/caidan3"
+        android:icon="@drawable/chenggong"
+        android:title="菜单3"
+        >
+    </item>
+    </group>
+</menu>
